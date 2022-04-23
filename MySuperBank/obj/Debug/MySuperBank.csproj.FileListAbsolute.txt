@@ -1,0 +1,6 @@
+/Users/gio/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.csproj.AssemblyReference.cache
+/Users/gio/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.csproj.CoreCompileInputs.cache
+/Users/gio/Projects/MySuperBank/MySuperBank/bin/Debug/MySuperBank.exe
+/Users/gio/Projects/MySuperBank/MySuperBank/bin/Debug/MySuperBank.pdb
+/Users/gio/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.exe
+/Users/gio/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.pdb
